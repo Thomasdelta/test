@@ -23,7 +23,7 @@ ctx.fillStyle="black";
 ctx.fillRect(0, 0, 1300, 100);
 ctx.fillStyle='white';
 ctx.font = "50px Arial";
-ctx.fillText("Phone number: 043 990 2918 ",120,70);}
+ctx.fillText("Phone number: 043 990 xxxx ",120,70);}
 
 function plusDivs(n) {
   showDivs(slideIndex += n);
