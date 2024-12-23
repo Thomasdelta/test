@@ -169,10 +169,10 @@ right:20px;}
 #vid {position:absolute; top:220px; left:0px;}}
 
 @media only screen and (max-width: 1150px) {
-  .mycontainer { position:absolute;top:680px;left:20px;}}
+  .mycontainer { position:absolute;top:600px;left:20px;}}
   
 @media only screen and (max-width: 600px) {
-	.mycontainer {width:100%; position:absolute;top:680px;left:0px;}}
+	.mycontainer {width:100%; position:absolute;top:600px;left:0px;}}
 
 @media only screen and (max-width: 530px) {
 #vid { width:100%; height:345px; position:absolute; top:220px; left:0px;}}
