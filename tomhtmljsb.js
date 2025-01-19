@@ -19,8 +19,8 @@ var img = document.getElementById("enemy");
 ctx.drawImage(img,0,0,100,100);	
 ctx.fillStyle='white';
 ctx.font = "50px Arial";
-ctx.fillText(w,120,70);
-//ctx.fillText("TOM'S HTML ",120,70);
+//ctx.fillText(w,120,70);
+ctx.fillText("TOM'S HTML ",120,70);
 tom2();
 }
 
@@ -33,7 +33,7 @@ ctx.fillStyle="black";
 ctx.fillRect(0, 0, 1300, 200);
 ctx.fillStyle='white';
 ctx.font = "50px Arial";
-ctx.fillText("Phone number: 043 990 2918 ",120,70);}
+ctx.fillText("Phone number: 043 990 xxxx ",120,70);}
 
 function plusDivs(n) {
   showDivs(slideIndex += n);
